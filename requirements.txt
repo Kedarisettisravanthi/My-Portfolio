@@ -1,0 +1,5 @@
+# Core dependencies (optional extensions)
+# CodeGraph core relies on Python standard library (ast, json, html) for maximum portability.
+networkx>=3.0
+matplotlib>=3.7.0
+
